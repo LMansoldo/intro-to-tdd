@@ -1,4 +1,4 @@
-h # Introdução ao TDD
+# Introdução ao TDD
 Um guia prático de métodos de desenvolvimento de software.
 
 ---
